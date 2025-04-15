@@ -1,0 +1,20 @@
+name: graphx_svg_utils
+description: "Optional flutter_svg extension utilities for GraphX."
+version: 0.0.1
+repository: https://github.com/roipeker/graphx_svg_utils
+publish_to: none
+
+environment:
+  sdk: ">=3.6.1 <4.0.0"
+  flutter: ">=3.24.3"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg: ^2.0.17
+  graphx: ^1.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0
